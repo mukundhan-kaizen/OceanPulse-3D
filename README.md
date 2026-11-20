@@ -87,6 +87,8 @@ Our main objective is to make complex marine information easier to explore and u
 
 **Category:** Software – Ocean Observation & Data Visualization
 
+**Prototype link:** https://mukundhan-kaizen.github.io/OceanPulse-3D/
+
 ---
 
 *Developed as a collaborative team project for Smart India Hackathon (SIH) 2026.*
